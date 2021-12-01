@@ -1,0 +1,23 @@
+H1 {
+    font-size: 120%;
+    font-family: verdana,Arial, Helvetica, sans-serif;
+    color: rgba(12, 7, 7, 0.801);
+}
+li {
+    font-size: 120%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blue;
+}
+th {
+    color:red;
+    font-style: italic;
+    background-color: rgb(78, 42, 145);
+}
+td {
+    color:indigo;
+    font-style: italic;
+    background-color: lawngreen;
+}
+h3 {
+    color:rgb(0, 0, 0);
+}
